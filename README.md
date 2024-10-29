@@ -2,16 +2,16 @@
 
 
 
-	![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+	
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://images.mailslurp.com/unsafe/fit-in/1080x0//assets/brands/testng.png?quality=100&cacheBuster=" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://images.mailslurp.com/unsafe/fit-in/1080x0//assets/brands/testng.png?quality=100&cacheBuster=" alt="java" width="200" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
-	![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+	
 
 
 <!--
