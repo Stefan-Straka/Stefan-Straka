@@ -25,8 +25,8 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://www.accelq.com/wp-content/uploads/2023/05/testng1.png" alt="Java" width="99" height="40" style="border: none;">
   <img src="https://github.com/Stefan-Straka/Stefan-Straka/blob/main/Introduction-to-SoapUI+background.png?raw=true" alt="Selenium" width="99" height="40" style="border: none;">
-	<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="TestNG" width="99" height="40" style="border: none;">
+	<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="TestNG" width="40" height="40" style="border: none;">
 		<a/>
 </div>
 	
