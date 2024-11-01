@@ -38,7 +38,7 @@
 
 
  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">](https://github.com/BugSplat-Git)
- [<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
+ [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
 	
 
 
