@@ -1,6 +1,6 @@
-## Hi there 👋 my name is Štefan Straka
-## 🙋‍♂️ About me
-I am aspiring Junior Software Tester | Skilled in Manual & Automated Testing | Looking to Start a Career in Software Testing
+## Hi there 👋 I'm Štefan Straka
+## 🧑‍💻 About me
+I am aspiring Junior Software Tester, skilled in Manual & Automated testing, looking to start a career in software testing.
 
 ## 🛠 Languages and Tools
 
@@ -16,18 +16,3 @@ I am aspiring Junior Software Tester | Skilled in Manual & Automated Testing | L
 
 ## 📫 How to reach me
 stefanstraka2424@gmail.com
-
-<!--
-**Stefan-Straka/Stefan-Straka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
